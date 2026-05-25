@@ -37,7 +37,7 @@
 <body>
 
     <div class="container">
-<a href="Topics?id=${langId}" class="back-btn">← Back To the</a>
+<a href="Topics?id=${langId}" class="back-btn">← Back</a>
          <div>
             <h1>${snippet.title}</h1>
             <p class="desc">${snippet.description}</p>
